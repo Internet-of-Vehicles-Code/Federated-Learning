@@ -103,4 +103,6 @@ Thanks goes to these wonderful people:
 | [<img src="https://avatars0.githubusercontent.com/u/18085242?s=460&u=cdcc485f27e155a359c63dfa4ce93e81b4a956e7&v=4" width="75px;"/><br /><sub><b>王智勇(Wang Zhiyong)</b></sub>](https://github.com/ZeroWangZY)<br /> | [<img src="https://avatars1.githubusercontent.com/u/27065652?s=460&u=eeda288b4a40087a86e039501ccfcf707c5d96c6&v=4" width="75px;"/><br /><sub><b>刘一璟(Liu Yijing)</b></sub>](https://github.com/zyplanet)<br />|
 | :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+##5. FedAvg代码
+https://blog.csdn.net/Joker_1024/article/details/116377064
 ## 欢迎参与贡献
